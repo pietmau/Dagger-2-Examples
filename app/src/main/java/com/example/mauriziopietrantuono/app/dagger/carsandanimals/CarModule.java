@@ -1,4 +1,4 @@
-package com.example.mauriziopietrantuono.app.dagger;
+package com.example.mauriziopietrantuono.app.dagger.carsandanimals;
 
 import com.example.mauriziopietrantuono.app.pojos.animals.Dog;
 import com.example.mauriziopietrantuono.app.pojos.animals.Tail;

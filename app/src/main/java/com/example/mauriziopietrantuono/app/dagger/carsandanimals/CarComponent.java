@@ -1,7 +1,6 @@
-package com.example.mauriziopietrantuono.app.dagger;
+package com.example.mauriziopietrantuono.app.dagger.carsandanimals;
 
 import com.example.mauriziopietrantuono.app.MainActivity;
-import com.example.mauriziopietrantuono.app.pojos.cars.Car;
 
 import dagger.Component;
 
